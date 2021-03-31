@@ -6,7 +6,7 @@ make a pull request
 check the pull to the conflict.
 
 
-This is a new line to see the conflict with 2 branches
+This is a conflict for sure.
 
 
 
